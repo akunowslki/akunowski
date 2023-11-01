@@ -1,0 +1,16 @@
+.bigbox {
+width: 400px;
+height: 400px;
+background-color: aqua;
+border: 3px solid;
+}
+.minibox {
+width:1200px;
+height: 100px;
+background-color: rgb(230, 8, 8);
+border: 3px solid;
+position: fixed;
+top: 10px;
+color: beige;
+text-align: center;
+}
